@@ -2,9 +2,9 @@ import discord
 import asyncio
 import random
 
-token = 'ur token here'
-serverid = 123456789101112
-rainbowrolename = "the name of the role"
+token = 'NjI1MjMwNDAzMDUzMDI3MzY4.XYc2xA.OJYOZvuHJDXqlwKXoDa853Jekt0'
+serverid = 598485209440321542
+rainbowrolename = "2.o"
 delay = 5
 
 
